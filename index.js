@@ -21,3 +21,5 @@ function destructivelyDeleteFromDriverByKey(obj, key) {
   
   return obj;
 }
+
+// Making sure it saves progress
